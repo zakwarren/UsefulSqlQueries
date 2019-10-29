@@ -7,3 +7,12 @@ encountered.
 
 Hopefully you'll find them useful too. If you have any queries that have
 proved beneficial to you, please contribute to this repo.
+
+## Authors
+
+- **zakwarren** - *Initial work*
+
+## License
+
+This project is licensed under the 3-Clause BSD License - see
+the [LICENSE.md](LICENSE.md) file for details.
